@@ -1,0 +1,2 @@
+{"update_id":615546283,
+"message":{"message_id":10,"from":{"id":749566905,"is_bot":false,"first_name":"\u0410\u043b\u0435\u043a\u0441\u0435\u0439","username":"FenrirRus","language_code":"ru","is_premium":true},"chat":{"id":749566905,"first_name":"\u0410\u043b\u0435\u043a\u0441\u0435\u0439","username":"FenrirRus","type":"private"},"date":1724842463,"text":"/start","entities":[{"offset":0,"length":6,"type":"bot_command"}]}}
